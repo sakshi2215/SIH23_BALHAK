@@ -4,26 +4,17 @@
 
 https://github.com/sakshi2215/SIH23_BALHAK/assets/116375190/13ae13b5-a2ad-4a03-ba4c-daf66b2daf57
 
-## Idea/Approach Details
- **Idea/Solution/Prototype:**
- ⮚Interactive 3D adventure game teaching children their rights 
-through real-life scenarios.
- ⮚Portraying rights as  missions with multilingual support for 
-accessibility.
- ⮚Audio and visual demonstration and in-game aids for 
-specially-abled children.
- ⮚Earn points to unlock hints and skins, and compete on the 
-leaderboard.
- ⮚Post-level quizzes to refine gameplay based on results.
- ⮚Integration with child services and child protection agencies 
-like NCPCR.
- ⮚Important teachings like Good touch and Bad touch, Vigilance, 
-Stranger Allurements, Emergency No. etc.
- ⮚Parental Monitoring System for enhanced involvement and 
-discussions on child rights at home and Digital Wellbeing.
- ⮚Feedback system involving children and parents to iteratively 
-enhance usability, content, features, and the overall educational 
-experience based on user insights.
+## Idea/Solution/Prototype
+
+- Interactive 3D adventure game teaching children their rights through real-life scenarios.
+- Portraying rights as missions with multilingual support for accessibility.
+- Audio and visual demonstration and in-game aids for specially-abled children.
+- Earn points to unlock hints and skins, and compete on the leaderboard.
+- Post-level quizzes to refine gameplay based on results.
+- Integration with child services and child protection agencies like NCPCR.
+- Important teachings like Good touch and Bad touch, Vigilance, Stranger Allurements, Emergency No. etc.
+- Parental Monitoring System for enhanced involvement and discussions on child rights at home and Digital Wellbeing.
+- Feedback system involving children and parents to iteratively enhance usability, content, features, and the overall educational experience based on user insights.
 
  **REVENUE MODEL**
 
